@@ -12,9 +12,9 @@ export default function Navbar() {
                 <div className="container-fluid p-0">
                     <div className="col-md-12 d-flex">
                         <div className="col-md-2 navbar-logo">
-                            <a className="navbar-brand" href="/">
+                            <Link className="navbar-brand" to="/">
                                 <img src={logo} />
-                            </a>
+                            </Link>
                             <span className='bars-icon' onClick={handleClick}><i className="fas fa-bars"></i></span>
                         </div>
                         <div className="col-md-10 d-flex right-search-navbar">
