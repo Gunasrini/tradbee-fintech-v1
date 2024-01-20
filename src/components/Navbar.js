@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import logo from '../assets/images/logo.jpeg'
+import { Link } from 'react-router-dom';
 
 export default function Navbar() {
     const handleClick = (e) => {
