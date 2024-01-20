@@ -10,9 +10,9 @@ function Dashboard() {
             <div className="dashboard-wrapper">
                 <Navbar />
                 <LeftNavbar />
-                <Routes>
+                {/* <Routes>
                     <Route path="/onboarding/*" element={<OnBoarding />}></Route>
-                </Routes>
+                </Routes> */}
 
             </div>
         </>
