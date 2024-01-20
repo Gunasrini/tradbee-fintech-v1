@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <header className='header'>
             <div className='container-fluid'>
-                <a to="/" className='site-logo'><img src={logo} /></a>
+                <Link to="/" className='site-logo'><img src={logo} /></Link>
             </div>
         </header>
     )

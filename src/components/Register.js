@@ -29,7 +29,7 @@ function Register() {
                         <label className='ms-auto'><input type='checkbox' />Inform me about latest news and tips</label>
                     </div>
                     <div className='text-center'>
-                        <a to="/" className='btn btn-primary login-width'>Create Account</a>
+                        <Link to="/" className='btn btn-primary login-width'>Create Account</Link>
                     </div>
                 </Form>
             </Col>

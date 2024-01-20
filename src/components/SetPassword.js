@@ -20,7 +20,7 @@ function SetPassword() {
                         <Input type='text' placeholder='Repeat Password' />
                     </FormGroup>
                     <div className='text-center mt-5'>
-                        <a to='/' className='btn btn-primary login-width'>Set Password</a>
+                        <Link to='/' className='btn btn-primary login-width'>Set Password</Link>
                     </div>
                 </Form>
             </Col>

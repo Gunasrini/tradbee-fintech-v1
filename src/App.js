@@ -9,16 +9,14 @@ import OnBoarding from './components/Onboarding/Onboarding';
 function App() {
   return (
 
-    <Dashboard />
-
-    // <Routes>
-    //   <Route path='/' element={<Login />} />
-    //   <Route path='/register' element={<Register />} />
-    //   <Route path='/forgot-password' element={<SetPassword />} />
-    //   <Route path='/dashboard/*' element={<Dashboard />}>
-    //     <Route path='onboarding' element={<OnBoarding />} />
-    //   </Route>
-    // </Routes>
+    <Routes>
+      <Route path='/' element={<Login />} />
+      <Route path='/register' element={<Register />} />
+      <Route path='/forgot-password' element={<SetPassword />} />
+      <Route path='/dashboard/*' element={<Dashboard />}>
+        <Route path='onboarding' element={<OnBoarding />} />
+      </Route>
+    </Routes>
   );
 }
 
