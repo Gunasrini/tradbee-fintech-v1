@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <header className='header'>
             <div className='container-fluid'>
-                <Link to="/" className='site-logo'><img src={logo} /></Link>
+                <Link to="/tradbee-fintech-v1" className='site-logo'><img src={logo} /></Link>
             </div>
         </header>
     )
