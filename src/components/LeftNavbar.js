@@ -9,22 +9,22 @@ function LeftNavbar() {
                         <div className="d-flex align-items-center">
                             <i className="fas fa-city"></i>
                             {/* <Link to="onboarding" className="nav-link" data-bs-toggle="collapse">Onboarding</Link> */}
-                            <NavLink to="onboarding/business-kyc" className="nav-link">Onboarding</NavLink>
+                            <a href="onboarding/business-kyc" className="nav-link">Onboarding</a>
                             <i className="fas fa-angle-down"></i>
                         </div>
                         <div id="onboarding" className="collapse show">
                             <ul className="nav submenu">
                                 <li className="nav-item">
                                     <i className="far fa-clock"></i>
-                                    <NavLink to="onboarding/business-kyc" className="nav-link">Business KYC</NavLink>
+                                    <a href="#" className="nav-link">Business KYC</a>
                                 </li>
                                 <li className="nav-item">
                                     <i className="far fa-clock"></i>
-                                    <NavLink to="onboarding/management-kyc" className="nav-link">Management KYC</NavLink>
+                                    <a href="#" className="nav-link">Management KYC</a>
                                 </li>
                                 <li className="nav-item">
                                     <i className="far fa-clock"></i>
-                                    <NavLink to="onboarding/business-financials" className="nav-link" href="#">Business Financials</NavLink>
+                                    <a href="#" className="nav-link">Business Financials</a>
                                 </li>
                                 <li className="nav-item">
                                     <i className="far fa-clock"></i>

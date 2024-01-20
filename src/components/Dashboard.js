@@ -10,6 +10,7 @@ function Dashboard() {
             <div className="dashboard-wrapper">
                 <Navbar />
                 <LeftNavbar />
+                <OnBoarding />
                 {/* <Routes>
                     <Route path="/onboarding/*" element={<OnBoarding />}></Route>
                 </Routes> */}

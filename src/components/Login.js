@@ -22,15 +22,15 @@ function Login() {
                     <div className='remember-me'>
                         <label><input type='checkbox' /> Remember me</label>
                         <p className='ms-auto mb-0'>
-                            <Link to="/forgot-password" className='btn text-primary p-0'>Forgot Password</Link>
+                            <a to="/forgot-password" className='btn text-primary p-0'>Forgot Password</a>
                         </p>
                     </div>
                     <div className='text-center mt-5'>
-                        <Link to="/dashboard/onboarding/business-kyc" className='btn btn-primary login-width'>Login</Link>
+                        <a to="/dashboard/onboarding/business-kyc" className='btn btn-primary login-width'>Login</a>
                     </div>
                     <div className='signup-info mt-5'>
                         <p>Not a user
-                            <Link to="/register" className='btn text-primary'>Signup</Link>
+                            <a to="/register" className='btn text-primary'>Signup</a>
                         </p>
                     </div>
                 </Form>
