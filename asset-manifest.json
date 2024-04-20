@@ -1,18 +1,28 @@
 {
   "files": {
-    "main.css": "/tradbee-fintech-v1/static/css/main.3fd72d3d.css",
-    "main.js": "/tradbee-fintech-v1/static/js/main.4d1d4299.js",
+    "main.css": "/tradbee-fintech-v1/static/css/main.dcfd4a03.css",
+    "main.js": "/tradbee-fintech-v1/static/js/main.1f6a5a78.js",
     "static/js/787.a951fd29.chunk.js": "/tradbee-fintech-v1/static/js/787.a951fd29.chunk.js",
     "static/media/logo.jpeg": "/tradbee-fintech-v1/static/media/logo.ed0c0696eff506e62c25.jpeg",
     "static/media/cibil-img.png": "/tradbee-fintech-v1/static/media/cibil-img.98e1c0c0269931bcb439.png",
     "static/media/otp-validation.png": "/tradbee-fintech-v1/static/media/otp-validation.35930f1623e52ed1699a.png",
+    "static/media/settings.svg": "/tradbee-fintech-v1/static/media/settings.c5a8d2039becdfa0c7be0ddfb705f5a9.svg",
+    "static/media/users.svg": "/tradbee-fintech-v1/static/media/users.ed2d70f74e80ff72cdd05203e09bce10.svg",
+    "static/media/notes.svg": "/tradbee-fintech-v1/static/media/notes.2e0bfcce41a5fbffa5307fbb8c68121e.svg",
+    "static/media/onboarding.svg": "/tradbee-fintech-v1/static/media/onboarding.01410b37e4defdfc6465b6e5347b83b0.svg",
+    "static/media/notification.svg": "/tradbee-fintech-v1/static/media/notification.4a38ba3caea0763d064434d424de8db7.svg",
+    "static/media/log-history.svg": "/tradbee-fintech-v1/static/media/log-history.c967aa7136b84dfc00c724d464d7a9aa.svg",
     "index.html": "/tradbee-fintech-v1/index.html",
-    "main.3fd72d3d.css.map": "/tradbee-fintech-v1/static/css/main.3fd72d3d.css.map",
-    "main.4d1d4299.js.map": "/tradbee-fintech-v1/static/js/main.4d1d4299.js.map",
+    "static/media/loan-documents.svg": "/tradbee-fintech-v1/static/media/loan-documents.540038d12e889576cda5ba2c25de91fa.svg",
+    "static/media/arrow-right.svg": "/tradbee-fintech-v1/static/media/arrow-right.dd2e6017a768ff8415fcb66b530e98a3.svg",
+    "static/media/search-header.svg": "/tradbee-fintech-v1/static/media/search-header.a4b706450b1d16136f99abfdd27e26a8.svg",
+    "static/media/arrow-left.svg": "/tradbee-fintech-v1/static/media/arrow-left.dac06bab4cca2511a822328eab824e6e.svg",
+    "main.dcfd4a03.css.map": "/tradbee-fintech-v1/static/css/main.dcfd4a03.css.map",
+    "main.1f6a5a78.js.map": "/tradbee-fintech-v1/static/js/main.1f6a5a78.js.map",
     "787.a951fd29.chunk.js.map": "/tradbee-fintech-v1/static/js/787.a951fd29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd72d3d.css",
-    "static/js/main.4d1d4299.js"
+    "static/css/main.dcfd4a03.css",
+    "static/js/main.1f6a5a78.js"
   ]
 }
