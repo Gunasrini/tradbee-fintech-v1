@@ -31,7 +31,7 @@ export default function BusinessKYC() {
                 <div className="left-navtabs">
                     <ul className="nav flex-column">
                         <li className="nav-item">
-                            <i className="far fa-clock"></i>
+                            <i className="far fa-clock pink"></i>
                             <a className="nav-link" href="#">Business Info</a>
                         </li>
                         <li className="nav-item">

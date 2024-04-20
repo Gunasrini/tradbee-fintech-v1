@@ -55,7 +55,7 @@ function CompanyDetail() {
                             </div>
                         </div>
                         <div className="col-md-12 form-add-button">
-                            <button type="button" className="btn btn-primary" data-bs-toggle="modal"
+                            <button type="button" className="btn btn-primary disabled" data-bs-toggle="modal"
                                 data-bs-target="#companyDetailModal">Add</button>
                         </div>
                     </div>

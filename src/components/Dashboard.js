@@ -9,11 +9,12 @@ function Dashboard() {
         <>
             <div className="dashboard-wrapper">
                 <Navbar />
-                <LeftNavbar />
-                <Routes>
-                    <Route path="/onboarding/*" element={<OnBoarding />}></Route>
-                </Routes>
-
+                <div className='dashboard-body'>
+                    <LeftNavbar />
+                    <Routes>
+                        <Route path="/onboarding/*" element={<OnBoarding />}></Route>
+                    </Routes>
+                </div>
             </div>
         </>
     )
